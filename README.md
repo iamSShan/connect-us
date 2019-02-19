@@ -11,5 +11,14 @@ requirements and features:
   -- Draw together
   -- Share to each other
 
+- Install mongodb like:
+$ sudo apt-get update
+$ sudo apt-get install mongodb
+
+Then to check if everything works:
+
+$ sudo service mongodb status
+
+
 - Send request for connection:
 - if accepted then only allowed to performs TASKS

@@ -5,7 +5,7 @@ const app = express();
 app.set('view engine', 'pug');
 app.use(express.static(path.join(__dirname, 'public')));
 
-const index = require('./routes/home');
+const index = require('./routes/index');
 
 
 
