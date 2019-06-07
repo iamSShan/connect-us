@@ -22,3 +22,9 @@ $ sudo service mongodb status
 
 - Send request for connection:
 - if accepted then only allowed to performs TASKS
+
+
+## Delete this:
+First login page should get open(Register page is on hold: Login can be done using some specfic password)
+Home page:
+Three actions should be listed there: Chat, Draw, Share

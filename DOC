@@ -1,0 +1,3 @@
+To create express structure ejs:  express --view=ejs project_name
+
+
