@@ -1,3 +1,5 @@
 To create express structure ejs:  express --view=ejs project_name
 
 
+
+To run: npm start or nodemon start

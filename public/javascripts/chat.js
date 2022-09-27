@@ -35,6 +35,6 @@ message.addEventListener('keypress', function() {
 
 // Now handle msg after response from BE (STEP 3 for message typing)
 socket.on('typing', function(data) {
-    typing_text.innerHTML = "<p><em>" + data + "is typing...</em></p>";
+    typing_text.innerHTML = "<p><em>" + data + " is typing...</em></p>";
 });
 
